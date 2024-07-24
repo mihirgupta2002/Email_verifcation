@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "papaparse": "^5.4.1",
+    "react-make-csv": "^0.0.1"
+  }
+}
